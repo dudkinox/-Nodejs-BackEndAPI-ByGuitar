@@ -1,0 +1,12 @@
+	-- start --
+npm init -y
+	-- install express --
+npm install express --save
+	-- install mogoose --
+npm install mogoose
+	-- install body-parser --
+npm install body-parser
+	-- install cors --
+npm install cors --save
+	-- install nodemon --
+npm install nodemon -g
