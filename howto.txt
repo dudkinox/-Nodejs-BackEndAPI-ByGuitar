@@ -10,3 +10,5 @@ npm install body-parser
 npm install cors --save
 	-- install nodemon --
 npm install nodemon -g
+	-- up heroku --
+heroku logs --tail --app (ชื่อแอป)
